@@ -12,8 +12,8 @@ import FaceRecognition from './Components/FaceRecognition/FaceRecognition';
 
 const returnClarifaiRequestOptions = (imageUrl) => {
   
-  const PAT = 'd216a2781ad440f79761aad37b5bb899';
-  const USER_ID = 'gootxyz';       
+  const PAT = '';
+  const USER_ID = '';       
   const APP_ID = 'facerecognitionapp';
   const IMAGE_URL = imageUrl;
 
